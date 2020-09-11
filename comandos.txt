@@ -1,0 +1,15 @@
+Deve conter a lista de comandos que você realizou para, respectivamente: 
+
+clonar o repositório: 
+git clone https://github.com/jgomes-web/WEB001_AF_REC.git
+cd WEB001_AF_REC
+
+adicionar os 3 arquivos à Index: 
+git add *
+
+enviar os arquivos para a HEAD (commit):
+git commit -m "Atividade de Recuperação"
+
+e enviar o arquivo para o repositório online:
+git push origin master
+git pull
